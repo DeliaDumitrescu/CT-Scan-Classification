@@ -8,5 +8,10 @@ Machine learning project meant to classify CT Scans. The first approach uses Ran
 ![](samples/2cffff55-000.png)
 
 ### Confusion Matrix
-#### Random Forests
-#### Convolutional Neural Network
+
+- #### Random Forests
+![](samples/confusion_matrix_std.png)
+
+- #### Convolutional Neural Network
+![](samples/confusion_matrix_1.png)
+
